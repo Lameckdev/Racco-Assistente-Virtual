@@ -7,6 +7,6 @@ resposta coprensiveis e
 rapidas.
 
 Tecnológias:
-Reconhecimento de voz.(google)
+Reconhecimento de voz.(google.)
 sintese de voz.
 integração com o chat Gpt.
